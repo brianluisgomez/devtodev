@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://bgome004:Jsbpadre8822@devtodev-r9arf.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://bgome004:Jsbpadre8822@devtodev-r9arf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
